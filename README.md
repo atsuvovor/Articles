@@ -1,6 +1,4 @@
-# Pub_Data_Analytics_Project
-
-# Pub_Data_Analytics_Project — File Listing
+# Data Analytics_Articles — File Listing
 
 | File Name | Description |
 |---|---|
